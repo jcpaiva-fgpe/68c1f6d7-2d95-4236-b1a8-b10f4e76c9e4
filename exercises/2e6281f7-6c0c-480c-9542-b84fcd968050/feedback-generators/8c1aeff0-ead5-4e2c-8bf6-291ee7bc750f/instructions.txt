@@ -1,1 +1,0 @@
-To have the player running down or up use rotate argument of addItem()
